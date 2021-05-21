@@ -12,7 +12,7 @@
 
 ## License
 
-It is a slighty modified GNU GPL license
+It is a slighty modified MIT license
 
 1. If you edit this and upload it, then please link back to us in README of your edited version of this repo.
 2. Though this step is optional, but try to maintain a similar repo.
