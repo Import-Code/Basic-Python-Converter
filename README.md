@@ -16,6 +16,6 @@ It is a slighty modified MIT license
 
 1. If you edit this and upload it, then please link back to us in README of your edited version of this repo.
 2. Though this step is optional, but try to maintain a similar repo.
-3. Also use this for your converting needs, be it for school or a corporate meeting, you dont need to link back to us if you are not modifing this.
+3. Also use this for your converting needs, be it for school or a corporate meeting, you dont need to link back to us if you are not modifying this.
 4. Also mention that your version is modified and holds little resemplance to us and thus problems with your version is not related to us.
 5. Nothing more!
