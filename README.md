@@ -8,7 +8,7 @@
 ## Files supported
 
 * We haven't tested it properly but it will work on many different multimedia formats like mp4 and mp3.
-* Also you need to install python 3.8 to run it properly!
+* Also you need to install Python 3.8, Ffmpeg, Ffmpeg for Python and PySimpleGUI to run it properly!
 
 ## License
 
