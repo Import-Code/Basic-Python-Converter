@@ -2,7 +2,7 @@
 
 * Read docs to edit and understand it.
 * Read Goals to see its future.
-* Read Chanelog to see its current state.
+* Read Changelog to see its current state.
 * Last but not least, try it out!!
 
 ## Files supported
