@@ -4,10 +4,14 @@
 
 ## More and more goals will be added time to time
 
-### - [] Optimization
+### - [ ] Optimization
 
 A lot can be optimized that cannot be seen to the naked eye.
 
-### - [] Better User experience
+### - [ ] Better User experience
 
 We want that anyone can name their file anything and a better GUI.
+
+### - [ ] Exe file
+
+We also want to provide a executable to those who cannot install python.
